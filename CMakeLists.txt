@@ -12,4 +12,4 @@ target_include_directories(mikeGL PUBLIC
                            "${PROJECT_SOURCE_DIR}/include/"
                            "/usr/include/GLFW")
 
-message("${PROJECT_SOURCE_DIR}/include")
+# message("${PROJECT_SOURCE_DIR}/include")
